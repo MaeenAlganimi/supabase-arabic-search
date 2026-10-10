@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-plex), "IBM Plex Sans Arabic", sans-serif;
+  --color-paper: #f4efe6;
+  --color-ink: #1d1a16;
+  --color-tide: #1e4d48;
+  --color-copper: #7a3b28;
+  --color-card: #fffdf8;
+  --color-line: #e3d7c6;
+  --color-muted: #5c534b;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+}

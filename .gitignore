@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.vercel
+coverage
+.env
+.env.local
+.env*.local
+*.log
+tsconfig.tsbuildinfo
+.playwright-mcp
