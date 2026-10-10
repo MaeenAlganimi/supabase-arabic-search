@@ -1,0 +1,1 @@
+# supabase-arabic-search
