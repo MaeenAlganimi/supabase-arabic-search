@@ -73,6 +73,10 @@ npm run build
 
 Vitest covers normalisation, reciprocal rank fusion, and the demo ranker (diacritics, alef folding, teh marbuta, the definite article, and a cross-lingual vector hit). GitHub Actions runs lint, typecheck, test, and build.
 
+## AI-assisted development
+
+This project was built with AI-assisted development: code, tests, and documentation were drafted with an AI assistant, then checked by running lint, typecheck, tests, and build. Nothing in this project should be read as production-audited.
+
 ## License
 
 [MIT](LICENSE) © Maeen Alganimi
